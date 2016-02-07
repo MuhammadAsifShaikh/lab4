@@ -10,6 +10,8 @@
 ..*2
 ...*3
 Alt-H1 Heading1
-Used *italic* **Bold** 
+======
+~~Used~~ *italic* **Bold** 
+**bold and _enphasise_**
 
 visit [this link] (https://www.google.com.pk) thanks.
