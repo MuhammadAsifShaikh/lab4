@@ -1,8 +1,8 @@
 1. First
 2. second
-..* unorder sub-list.
+  * unorder sub-list.
 1. second one
-..1. ordered sub-list.
+  1. ordered sub-list.
 
 
 
